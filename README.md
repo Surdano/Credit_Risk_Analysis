@@ -1,4 +1,5 @@
-# Credit_Risk_Resampling
+# Credit_Risk_Analysis
+![Photo of a credit report](https://user-images.githubusercontent.com/89755088/146702570-e503075f-e922-48f2-91e5-c1d8160a9495.png)
 
 Credit risk poses a classification problem that’s inherently imbalanced. This is because healthy loans easily outnumber risky loans. This program uses various techniques to train and evaluate models with imbalanced classes. It uses a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 

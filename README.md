@@ -67,7 +67,7 @@ The two models are compared on three main metrics: accuracy, percision and recal
     
 ## Summary
 
-Given the results, we can see that Model 2, which used the resampled(OverSampled) data, preformed much better than Model 1, even with a decrease in precision, or in other words, a slight increase in false positives. Model 2 with the resampled data correctly identified 99.4% of high risk loans versus the first model which only correctly identified 91%.
+Given the results, we can see that Model 2, which used the resampled(OverSampled) data, preformed much better than Model 1. Even though Model 2 saw a 1% decrease in precision, or in other words, saw a 1% increase in false positives. Model 2 with the resampled data, correctly identified 99% of high risk loans versus the first model which only correctly identified 91%. Model 2 would be my recommendation for which one the lending company should use.
 
 ---
 ## Contributors
